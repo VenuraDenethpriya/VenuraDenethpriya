@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/VenuraDenethpriya"><img src="https://img.shields.io/github/followers/VenuraDenethpriya?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
+<p align="center">
   <a href="https://venuraportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230A66C2.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/venuradenethpriya/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -26,7 +28,6 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=VenuraDenethpriya&show_icons=true&theme=radical" />
   <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenuraDenethpriya&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=VenuraDenethpriya&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
