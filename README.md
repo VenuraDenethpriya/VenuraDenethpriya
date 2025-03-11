@@ -22,6 +22,23 @@
 - 🌍 Passionate about **building impactful software & solving real-world problems**
 - 🎯 Currently working on: [Lost and Found Reporting System](https://lfrs-venura-denethpriyas-projects.vercel.app/)
 
+
+---
+
+## 📌 Featured Projects
+### 🔹 [Lost and Found Reporting System](https://lfrs-venura-denethpriyas-projects.vercel.app/)
+> **MERN | TypeScript | Redux | Clerk Auth | Tailwind CSS**
+- **Helping Sri Lankan police streamline lost item reports** 
+- Includes a **user-friendly UI**, **secure authentication**, and **automated reporting**
+  
+### 🔹 [Mebius E-Commerce Site](https://mebius-venura-denethpriyas-projects.vercel.app/)
+> **MERN | TypeScript | Redux | Zod | Clerk Auth | Tailwind CSS**
+- A modern **e-commerce platform** with secure **user authentication & payments**
+- Implements **REST APIs** and a **robust database architecture**
+
+### 🔹 [Personal Portfolio](https://venuraportfolio.vercel.app/)
+> **React | CSS**
+- A **clean, responsive portfolio** showcasing my **projects, skills, and contact details**.
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -41,22 +58,6 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb,redux,tailwind,java,python,django,git,github,vscode" />
 </p>
 
----
-
-## 📌 Featured Projects
-### 🔹 [Lost and Found Reporting System](https://lfrs-venura-denethpriyas-projects.vercel.app/)
-> **MERN | TypeScript | Redux | Clerk Auth | Tailwind CSS**
-- **Helping Sri Lankan police streamline lost item reports** 
-- Includes a **user-friendly UI**, **secure authentication**, and **automated reporting**
-  
-### 🔹 [Mebius E-Commerce Site](https://mebius-venura-denethpriyas-projects.vercel.app/)
-> **MERN | TypeScript | Redux | Zod | Clerk Auth | Tailwind CSS**
-- A modern **e-commerce platform** with secure **user authentication & payments**
-- Implements **REST APIs** and a **robust database architecture**
-
-### 🔹 [Personal Portfolio](https://venuraportfolio.vercel.app/)
-> **React | CSS**
-- A **clean, responsive portfolio** showcasing my **projects, skills, and contact details**.
 
 ---
 
