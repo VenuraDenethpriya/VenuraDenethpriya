@@ -45,8 +45,6 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=VenuraDenethpriya&show_icons=true&theme=radical" />
   <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VenuraDenethpriya&theme=radical" />
-  <img width="47%" src="https://api.github.com/search/issues?q=author:VenuraDenethpriya+type:pr" />
- 
 </p>
 
 <p align="center">
