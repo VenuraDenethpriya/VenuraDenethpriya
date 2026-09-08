@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 **Software Engineer** based in Abu Dhabi, UAE, specializing in Full-Stack Development and Cloud/DevOps architecture.
+- 💻 **Software Engineer** based in Colombo, Sri Lanka, specializing in Full-Stack Development and Cloud/DevOps architecture.
 - 🏢 Currently building scalable systems and orchestrating end-to-end deployments at **Renewaa Pvt. Ltd.**
 - 🎓 BSc Honours in Business Information Systems graduate from the **University of Sri Jayewardenepura**.
 - ☁️ Passionate about **Infrastructure as Code (IaC), GitOps, System Observability**, and developing high-performance web and mobile applications.
